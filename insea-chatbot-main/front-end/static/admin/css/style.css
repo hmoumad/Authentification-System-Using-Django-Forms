@@ -1,0 +1,35 @@
+.hhh{
+    color: brown;
+    background-color: blue;
+}
+.mystyle{
+    margin: auto;
+}
+
+.login_oueter {
+    width: 360px;
+    max-width: 100%;
+}
+.logo_outer{
+    text-align: center;
+}
+.logo_outer img{
+    width:80px;
+    margin-bottom: 10px;
+}
+.fas{
+    line-height: 2!important;
+}
+.bg-light{
+    width: 50% !important;
+    margin: auto;
+}
+
+/* @media (min-width: 550px) {
+    .input-group-text{
+        display: none;
+    }
+    .bg-light{
+        width: 80%;
+    }
+} */

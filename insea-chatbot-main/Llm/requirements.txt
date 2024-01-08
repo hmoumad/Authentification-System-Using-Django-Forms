@@ -1,0 +1,10 @@
+langchain
+openai
+transformers
+opensearch-py
+sentence-transformers
+tiktoken
+opensearch-py
+youtube-transcript-api
+google-generativeai
+load_dotenv
